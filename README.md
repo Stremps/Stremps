@@ -7,6 +7,7 @@
 🔬 Researcher at the Applied Visual Computing research group ([LabCG](https://www.instagram.com/labcg_unioeste/))<br/>
 ⚙️ Working at hardware and software level<br/>
 💭 Currently learning about immersive XR experiences!<br/>
+✉️ Contact: cdomingues.gustavo@gmail.com (or my social media in my profile)
 
 ---
 
