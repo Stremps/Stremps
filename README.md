@@ -37,6 +37,6 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ### 📊 My Stats on Git Hub
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=stremps&count_private=true&show_icons=true&theme=jolly&hide_rank=false" height="180cm"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stremps&show_icons=true&locale=en&layout=compact&theme=jolly" height="180cm"/>
+<img src="https://github-readme-stats.vercel.app/api?username=stremps&count_private=true&show_icons=true&theme=jolly&hide_rank=false" height="150cm"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stremps&show_icons=true&locale=en&layout=compact&theme=jolly" height="150cm"/>
 </div>
