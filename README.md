@@ -6,7 +6,7 @@
 👩🏻‍🎓 Studying Computer Science at the Unioeste campus Foz do Iguaçu, Brazil<br/>
 🔬 Researcher at the Applied Visual Computing research group ([LabCG](https://www.instagram.com/labcg_unioeste/))<br/>
 ⚙️ Working at hardware and software level<br/>
-💭 Currently learning about immersive XR experiences!<br/>
+💭 Currently learning about generative AI in XR experiences!<br/>
 ✉️ Contact: cdomingues.gustavo@gmail.com (or my social media in my profile)
 
 ---
