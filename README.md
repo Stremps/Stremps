@@ -33,6 +33,13 @@
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <br />
 
+## 🔗 Professional Links
+
+- <img alt="Google Scholar" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /> [Google Scholar](https://scholar.google.com/citations?user=6Rufb-MAAAAJ&hl=pt-PT) - Check my publications and citations.
+- <img alt="Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /> [LinkedIn](URL_DO_LINKEDIN) - Let's connect on LinkedIn.
+- <img alt="Beecrownd" width="20px" src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" /> [Beecrowd](https://judge.beecrowd.com/pt/profile/617824) - Check out my performance in competitive programming.
+
+
 #
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
