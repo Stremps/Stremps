@@ -37,6 +37,7 @@
 
 - <img alt="Google Scholar" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" /> [Google Scholar](https://scholar.google.com/citations?user=6Rufb-MAAAAJ&hl=pt-PT) - Check my publications and citations.
 - <img alt="Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /> [LinkedIn](https://www.linkedin.com/in/gustavo-camargo-domingues-2b95101b2/) - Let's connect on LinkedIn.
+- <img alt="Lattes" width="20px" src="https://static.wixstatic.com/media/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/fce13b_3ba4351b39b146cfa22045dbab2e50f1~mv2.png" /> [Curriculum Lattes](http://lattes.cnpq.br/2798114048758921) - See my scientific productions.
 
 
 #
