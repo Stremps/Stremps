@@ -1,17 +1,17 @@
 # 🤓 Hello There, I'm Gustavo!
 
-**`Academic Computer Scientist (yet undergraduate)`**
+**`Academic Computer Scientist`**
 
-👩🏻‍💻 Aspiring Computer Scientist trying to develop low-cost and open source technological applications<br/>
-👩🏻‍🎓 Studying Computer Science at the Unioeste campus Foz do Iguaçu, Brazil<br/>
-🔬 Researcher at the Applied Visual Computing research group ([LabCG](https://www.instagram.com/labcg_unioeste/))<br/>
-⚙️ Working at hardware and software level<br/>
-💭 Currently learning about generative AI in XR experiences!<br/>
+👩🏻‍💻 Bachelor of Science in Computer Science trying to develop low-cost and open source technological applications.<br/>
+👩🏻‍🎓 Former Computer Science student at Unioeste. Currently pursuing a Master's degree in Computer Science at CIn/UFPE in Recife, Brazil.<br/>
+🔬 Researcher at the Applied Visual Computing research group ([LabCG](https://www.instagram.com/labcg_unioeste/)) and [Voxar Labs](https://voxarlabs.cin.ufpe.br/)<br/>
+⚙️ Working at hardware and software level.<br/>
+💭 XR experiences focusing on visual-haptic feedback and assistive technology solutions.<br/>
 ✉️ Contact: cdomingues.gustavo@gmail.com (or my social media in my profile)
 
 ---
 
-### 📄 Languages that I use
+### 📄 Languages and Frameworks that I use
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -19,15 +19,18 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="RedisQueue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <br />
+
 
 ### 🧰 Here some tools too...
 
 <img align="left" alt="Visual Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
